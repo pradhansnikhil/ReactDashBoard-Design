@@ -1,0 +1,39 @@
+.side-menu-contain{
+    display: flex;
+    flex-direction: column;
+   width: 100%;
+   padding: 10%;
+}
+
+.main-heading
+{
+    display: flex;
+
+    font-weight: bold;
+    color:#978FCF;
+}
+.mid-menu{
+    display: flex;
+    flex-direction: column;
+}
+.buttom-menu{
+    display: flex;
+    flex-direction: column;
+    /* padding: 2%; */
+    margin-top: 30%;
+    
+}
+.buttom-layout-title{
+width: 100%;
+font-weight: 600;
+font-size: 0.9rem;
+padding: 2% 0%;
+
+
+}
+.buttom-user-status{
+    display: flex;
+    
+    flex-direction: column;
+    /* padding: 10%; */
+}

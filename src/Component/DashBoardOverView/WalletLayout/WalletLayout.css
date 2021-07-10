@@ -1,0 +1,25 @@
+.wallet-container{
+    background: #ffffff;
+    /* padding: 10% 3%; */
+
+    width: 45%;
+    height: 15vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.wallet-label{
+    font-size: 0.5em;
+    margin-bottom: 1%;
+}
+.wallet-value{
+    font-size: 0.8em;
+}
+.top-wallet-name{
+font-size: 0.6rem;
+}
+.bottom-wallet-val{
+    font-weight: bold;
+}

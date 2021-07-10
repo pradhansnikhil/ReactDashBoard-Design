@@ -1,0 +1,23 @@
+.security-layout{
+display: flex;
+background: #ffffff;
+padding: 2%;
+width: 44%;
+margin-bottom: 3%;
+
+}
+.security-left{
+    display: flex;
+    flex: 80%;
+    flex-direction: column;
+}
+.security-right{
+    display: flex;
+    flex: 20%;
+}
+.security-label{
+    font-size: 0.9rem;
+}
+.security-value{
+    font-size: 0.6rem;
+}

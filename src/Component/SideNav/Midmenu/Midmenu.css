@@ -1,0 +1,14 @@
+.mid-items{
+    display: flex;
+    padding: 2%;
+    margin-top: 8%;
+    font-weight:lighter;
+}
+.right-items{
+flex: 20%;
+
+font-size: 1.1rem;
+}
+.left-icons{
+flex: 80%;
+}

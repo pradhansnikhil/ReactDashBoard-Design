@@ -1,0 +1,17 @@
+.dashBoardLayout{
+  display: flex;
+
+}
+.sideNav{
+  display: flex;
+  flex: 15%;
+  height: 100vh;
+  background-color: #ffffff;
+  
+}
+.dashBoardContent{
+  display: flex;
+  flex:85%;
+  background-color: #f4f6fa;
+  height: 100vh;
+}

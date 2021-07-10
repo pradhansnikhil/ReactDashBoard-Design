@@ -1,0 +1,15 @@
+.icons{
+    background: #fff;
+   width: 2em;
+   height: 2em;
+    border-radius: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.option{
+
+    border: 2px solid #fff ;
+    padding:1%;
+    border-radius: 30%;
+}

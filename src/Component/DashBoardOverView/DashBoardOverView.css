@@ -1,0 +1,36 @@
+.display-body{
+    display: flex;
+   
+}
+
+.left-layout{
+    flex: 40%;
+    
+}
+.middle-layout{
+    flex: 25%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.right-layout{
+    flex: 35%;
+   
+}
+.child-top{
+    width: 90%;
+    margin-bottom: 10%;
+}
+.child-bottom{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

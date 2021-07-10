@@ -1,0 +1,40 @@
+.left{
+ flex: 50%;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.right{
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+   }
+.balance-layout{
+background: #5247AD;
+
+padding: 8% 2%;
+color: #fff;
+display:flex ;
+
+}
+.label{
+font-size: 0.6rem;
+
+}
+.value{
+    font-size: 1.4rem;
+}
+.middle{
+    display: flex;
+
+}
+.top{
+    margin-bottom: 10%;
+}
+.middle{
+    margin-bottom: 10%;
+}
+.child-right{
+    margin-left: 10%;
+
+}

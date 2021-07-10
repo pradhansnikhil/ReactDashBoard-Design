@@ -1,0 +1,45 @@
+.content-layout{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 2% 5%;
+    overflow: auto;
+    
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+.footerSection{
+    display: flex;
+    width: 100%;
+    /* background: red; */
+  
+  
+
+}
+.footer-title{
+    flex: 100%;
+    display: flex;
+    margin-top: 5% ;
+    padding: 1%;
+}
+.left-title{
+flex: 50%;
+}
+.right-title{
+    flex: 50%;
+}
+.security-section{
+flex: 50%;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.mining-section{
+    flex: 50%;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    padding: 0% 2%;
+
+}

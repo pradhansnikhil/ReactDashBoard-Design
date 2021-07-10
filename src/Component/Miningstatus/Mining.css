@@ -1,0 +1,46 @@
+.mining-layout{
+    display: flex;
+width: 48%;
+background: #ffffff;
+
+}
+
+.mining-left{
+flex: 30%;
+
+}
+.logo{
+    display: flex;
+    background:#11f154;
+    width: 2.5em;
+    height: 2.6em;
+    justify-content: center;
+    align-items: center;
+}
+.mining-middle{
+    flex: 55%;
+    display: flex;
+    flex-direction: column;
+}
+.mining-right{
+    flex: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mining-child-top{
+font-size: 0.8em;
+}
+.mining-child-bottom{
+font-size: 0.6em;
+}
+
+
+
+
+
+
+
+
+
+
